@@ -1,0 +1,38 @@
+# WQdashboard
+
+WQdashboard is an open-source dashboard template that can be used to
+display water quality data using interactive maps, report cards, and
+graphs. No coding knowledge required! This tool accepts multiple
+different data formats, including those used by WQX, RI DEM, Watershed
+Watch, and the Blackstone River Coalition. WQdashboard is designed to
+help water quality organizations share their data as a standalone or
+embedded website.
+
+## Using WQdashboard
+
+For those with a GitHub account, select “Use this template” to create a
+new repository. Else, select “Code” \> “Download ZIP” to download the
+code.
+
+Please read the following vignettes for instructions on using
+WQdashboard:
+
+- [General
+  Overview](https://nbep.github.io/WQdashboard/articles/wqdashboard.html)
+- [Introduction to
+  R](https://nbep.github.io/WQdashboard/articles/intro_to_R.html)
+- [Publishing](https://nbep.github.io/WQdashboard/articles/publishing.html)
+
+## Disclaimer
+
+This project was funded by agreements by the Environmental Protection
+Agency (EPA) to Roger Williams University (RWU) in partnership with the
+Narragansett Bay Estuary Program. Although the information in this
+document has been funded wholly or in part by EPA under the agreements
+CE00A00967 to RWU, it has not undergone the Agency’s publications review
+process and therefore, may not necessarily reflect the views of the
+Agency and no official endorsement should be inferred. The viewpoints
+expressed here do not necessarily represent those of the Narragansett
+Bay Estuary Program, RWU, or EPA nor does mention of trade names,
+commercial products, or causes constitute endorsement or recommendation
+for use.
