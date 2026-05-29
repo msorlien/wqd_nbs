@@ -56,7 +56,7 @@
 #' @noRd
 
 results_csv <- "data.csv"
-in_format <- "WQdashboard"
+in_format <- "masswater"
 date_format <- "m/d/Y"
 timezone <- Sys.timezone()
 
