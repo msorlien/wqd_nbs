@@ -54,9 +54,9 @@
 #'
 #' @noRd
 
-skip_step <- TRUE
+skip_step <- FALSE
 threshold_csv <- "thresholds.csv"
-in_format <- "WQdashboard"
+in_format <- "Masswater"
 
 # CODE - DO NOT EDIT BELOW THIS LINE -------------------------------------------
 devtools::load_all()

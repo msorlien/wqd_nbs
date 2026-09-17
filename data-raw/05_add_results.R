@@ -55,7 +55,7 @@
 #'
 #' @noRd
 
-results_csv <- "data.csv"
+results_csv <- "WQ Chemistry Result Excel.csv"
 in_format <- "masswater"
 date_format <- "m/d/Y"
 timezone <- Sys.timezone()

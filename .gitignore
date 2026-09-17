@@ -17,3 +17,4 @@ renv.lock
 .Rprofile
 inst/doc
 docs
+/vignettes

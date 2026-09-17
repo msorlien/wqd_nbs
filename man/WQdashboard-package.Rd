@@ -20,5 +20,10 @@ Useful links:
 \author{
 \strong{Maintainer}: Mariel Sorlien \email{msorlien@nbep.org}
 
+Authors:
+\itemize{
+  \item Mariel Sorlien \email{msorlien@nbep.org}
+}
+
 }
 \keyword{internal}

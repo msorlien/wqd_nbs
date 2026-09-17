@@ -7,10 +7,16 @@ engine: knitr
 brand: false
 ---
 
-# About this Site
+# About this Website
 
-Water Quality Dashboard lets you explore the state of the watershed through interactive maps, report cards, and graphs. Check the water quality near where you live and see how it has changed over time.
+This website holds the NBS Water Quality Monitoring and Restoration Program's results. Within this page, you can explore our site maps, generate graphs to compare sample sites or tests, print entire data sets, and more!
 
-## How are scores calculated?
+## About the NBS Water Quality Monitoring and Restoration Program
 
-Scores are calculated using state or site specific thresholds. The scoring system is designed to provide a rough approximation of the health of the watershed, but should not be mistaken for official guidance or classifications. For up to date, official information on which waterbodies are healthy or impaired, go to [How's My Waterway?](https://mywaterway.epa.gov/)
+The water quality program began testing in February of 2026 and monitors the chemical, biological, and physical characteristics of Norman Bird Sanctuary's aquatic systems. The list of everything we test along with the field and lab equipment we use can be found on the water quality website linked below under "Resources". Our goals are to understand our aquatic systems, monitor their health, and pursue restoration efforts when needed.
+
+This program is made possible by our staff, advisory board, college interns, dedicated community volunteers, and support from local conservation organizations. If you have an interest in volunteering with us, check out our website below!
+
+Note: Water Quality Samplers/Testers and Site Guide volunteer positions are 18+ age restricted.
+
+**NBS Water Quality Website:** <https://normanbirdsanctuary.org/about/water-quality-monitoring-program/>

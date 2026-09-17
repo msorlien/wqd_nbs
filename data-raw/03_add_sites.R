@@ -27,7 +27,7 @@
 #'
 #' @noRd
 
-sites_csv <- "sites.csv"
+sites_csv <- "WQ Chemistry Sample Site Excel.csv"
 in_format <- "masswater"
 default_state <- "RI"
 

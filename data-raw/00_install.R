@@ -20,6 +20,13 @@ if (!require(renv)) {
 library(renv)
 renv::install(exclude = c("WQdashboard", "covrpage"))
 
+if (!require(remotes)) {
+  install.packages("remotes")
+}
+remotes::install_github("massbays-tech/wqformat")
+remotes::install_github("nbep/importwqd")
+
+
 # Add tinytex ----
 if (!require(tinytex)) {
   install.packages("tinytex")
