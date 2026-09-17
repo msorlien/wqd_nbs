@@ -61,7 +61,7 @@ date_format <- "m/d/Y"
 timezone <- Sys.timezone()
 
 overwrite_existing <- FALSE
-recalculate_score <- FALSE
+recalculate_score <- TRUE
 update_citation <- TRUE
 
 # CODE - DO NOT EDIT BELOW THIS LINE -------------------------------------------
