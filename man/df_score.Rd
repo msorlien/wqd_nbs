@@ -17,7 +17,7 @@ A dataframe with 15-17 columns:
    \item{Parameter}{Parameter}
    \item{Unit}{Result unit}
    \item{score_typ}{How annual score is calculated. Values: Minimum, Maximum,
-   Average, Median, NA}
+   Average, Geomean, Median, 90th percentile, NA}
    \item{score_num}{Numeric score}
    \item{score_str}{Score. Values: Meets Criteria, Does Not Meet Criteria,
    Excellent, Good, Fair, Poor, No Threshold Established, No Data Available}

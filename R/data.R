@@ -60,7 +60,7 @@
 #'    \item{Parameter}{Parameter}
 #'    \item{Unit}{Result unit}
 #'    \item{score_typ}{How annual score is calculated. Values: Minimum, Maximum,
-#'    Average, Median, NA}
+#'    Average, Geomean, Median, 90th percentile, NA}
 #'    \item{score_num}{Numeric score}
 #'    \item{score_str}{Score. Values: Meets Criteria, Does Not Meet Criteria,
 #'    Excellent, Good, Fair, Poor, No Threshold Established, No Data Available}
@@ -134,28 +134,28 @@
 #'  }
 "df_sites"
 
-# #' Custom thresholds (dataframe)
-# #'
-# #' Dataframe containing custom threshold values.
-# #'
-# #' @format A dataframe with 13 columns:
-# #'  \describe{
-# #'    \item{State}{State}
-# #'    \item{Group}{Group}
-# #'    \item{Site}{Site ID}
-# #'    \item{Depth}{Depth category}
-# #'    \item{Parameter}{Parameter}
-# #'    \item{Unit}{Parameter unit}
-# #'    \item{Calculation}{How to calculate annual score. Values: min, max, mean,
-# #'    median}
-# #'    \item{Min}{Minimum acceptable value}
-# #'    \item{Max}{Maximum acceptable value}
-# #'    \item{Excellent}{Threshold between excellent and good data}
-# #'    \item{Good}{Threshold between good and fair data}
-# #'    \item{Fair}{Threshold between fair and poor data}
-# #'    \item{Best}{Whether excellent data is higher or lower than fair data}
-# #'  }
-# "df_thresholds"
+#' Custom thresholds (dataframe)
+#'
+#' Dataframe containing custom threshold values.
+#'
+#' @format A dataframe with 13 columns:
+#'  \describe{
+#'    \item{State}{State}
+#'    \item{Group}{Group}
+#'    \item{Site}{Site ID}
+#'    \item{Depth}{Depth category}
+#'    \item{Parameter}{Parameter}
+#'    \item{Unit}{Parameter unit}
+#'    \item{Calculation}{How to calculate annual score. Values: min, max, mean,
+#'    geomean, median, 90p}
+#'    \item{Min}{Minimum acceptable value}
+#'    \item{Max}{Maximum acceptable value}
+#'    \item{Excellent}{Threshold between excellent and good data}
+#'    \item{Good}{Threshold between good and fair data}
+#'    \item{Fair}{Threshold between fair and poor data}
+#'    \item{Best}{Whether excellent data is higher or lower than fair data}
+#'  }
+"df_thresholds"
 
 # #' River polylines (shapefile)
 # #'
